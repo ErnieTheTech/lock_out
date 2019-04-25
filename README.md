@@ -1,2 +1,2 @@
-![alt text](/lock_out/1.jpg "Box 1")
+![alt text](1.jpg "Box 1")
 
