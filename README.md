@@ -40,7 +40,7 @@ digitalWrite(L2,LOW); // turn off lamp 2
 ```
 
 ![alt text](1.jpg "Box 1")
-![alt text](2.JPG "Box 1")
-![alt text](3.JPG "Box 1")
-![alt text](4.JPG "Box 1")
+![alt text](2.JPEG "Box 1")
+![alt text](3.JPEG "Box 1")
+![alt text](4.JPEG "Box 1")
 
