@@ -1,2 +1,2 @@
-![alt text](https://github.com/ErnieTheTech/lock_out/blob/master/1.jpg "Box 1")
+![alt text](/lock_out/1.jpg "Box 1")
 
