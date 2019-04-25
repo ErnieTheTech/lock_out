@@ -2,6 +2,7 @@
 
 With the help from hrttele over at instructable.com, I put together button boxes to use with a Family Fued type game. Most of the code stayed the same but we used only 2 lights/switches instead of 3.
 
+```markdown
 //define pins to be used
 int S1 = 2; //switch 1
 int S2 = 3;
@@ -36,6 +37,7 @@ digitalWrite(L2,LOW); // turn off lamp 2
 }
 
 }
+```
 
 ![alt text](1.jpg "Box 1")
 
