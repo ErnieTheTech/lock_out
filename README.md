@@ -45,7 +45,7 @@ digitalWrite(L2,LOW); // turn off lamp 2
 ![alt text](4.JPEG "Box 1")
 
 <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:100%; height:auto;" controls>
        <source src="{{ site.baseurl }}/IMG_2762.MP4" type="video/mp4" />
           </video>
 </div>
