@@ -44,4 +44,8 @@ digitalWrite(L2,LOW); // turn off lamp 2
 ![alt text](3.JPEG "Box 1")
 ![alt text](4.JPEG "Box 1")
 
-<iframe width="480" height="360" src="IMG_2762.MP4" frameborder="0"> </iframe>
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/IMG_2762.MP4" type="video/mp4" />
+          </video>
+</div>
