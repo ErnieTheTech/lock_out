@@ -43,9 +43,13 @@ digitalWrite(L2,LOW); // turn off lamp 2
 ![alt text](2.JPEG "Box 1")
 ![alt text](3.JPEG "Box 1")
 ![alt text](4.JPEG "Box 1")
+![alt text](final.JPEG "Box 1")
 
 <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" controls>
        <source src="{{ site.baseurl }}/IMG_2762.MP4" type="video/mp4" />
+          </video>
+    <video  style="display:block; width:100%; height:auto;" controls>
+       <source src="{{ site.baseurl }}/game_time.MP4" type="video/mp4" />
           </video>
 </div>
